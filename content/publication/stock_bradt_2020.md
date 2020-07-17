@@ -1,6 +1,6 @@
 +++
 title = "Analysis of proposed 20-year mineral leasing withdrawal in Superior National Forest"
-date = "2020-08-01"
+date = "2020-07-01"
 authors = ["J.H. Stock", "J.T. Bradt"]
 publication_types = ["2"]
 publication = "Ecological Economics, 174"
